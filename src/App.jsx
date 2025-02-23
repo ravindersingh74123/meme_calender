@@ -23,6 +23,7 @@ const mediaFiles = {
   "01-18": "/content/meme0118.mp4",
   "01-19": "/content/meme0119.mp4",
   "01-20": "/content/meme0120.mp4",
+  "01-21": "/content/meme0121.mp4",
 
 };
 
