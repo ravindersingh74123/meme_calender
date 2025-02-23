@@ -24,6 +24,7 @@ const mediaFiles = {
   "01-19": "/content/meme0119.mp4",
   "01-20": "/content/meme0120.mp4",
   "01-21": "/content/meme0121.mp4",
+  "01-22": "/content/meme0122.mp4",
 
 };
 
@@ -42,7 +43,7 @@ const months = [
   "December",
 ];
 
-window.alert("new memes comming soon/ for now jan1 to 18")
+window.alert("new memes comming soon/ for now jan1 to 22")
 
 const daysInMonth = (month, year) => new Date(year, month, 0).getDate();
 const getStartDay = (month, year) => new Date(year, month - 1, 1).getDay();
