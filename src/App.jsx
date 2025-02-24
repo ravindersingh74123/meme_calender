@@ -30,7 +30,7 @@ const mediaFiles = {
   "01-25": "/content/meme0125.mp4",
   "01-26": "/content/meme0126.mp4",
   "01-27": "/content/meme0127.jpg",
-  "01-28": "/content/meme0128.mp4",
+  "01-28": "/content/meme0128.jpg",
   "01-29": "/content/meme0129.mp4",
   "01-30": "/content/meme0130.mp4",
   "01-31": "/content/meme0131.mp4",
